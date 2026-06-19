@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stats | Galactic Hub Archive</title>
+    <meta name="theme-color" content="#071421" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="View archive-wide Galactic Hub statistics, category totals, contributor counts, and breakdowns across every local export."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Galactic Hub Archives" />
+    <meta property="og:title" content="Stats | Galactic Hub Archive" />
+    <meta
+      property="og:description"
+      content="View archive-wide Galactic Hub statistics, category totals, contributor counts, and breakdowns across every local export."
+    />
+    <meta property="og:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Stats | Galactic Hub Archive" />
+    <meta
+      name="twitter:description"
+      content="View archive-wide Galactic Hub statistics, category totals, contributor counts, and breakdowns across every local export."
+    />
+    <meta name="twitter:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <link rel="icon" type="image/x-icon" href="../assets/favicon/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="../assets/favicon/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body
+    data-page="stats"
+    data-creatures-json-path="../data/creatures.json"
+    data-starships-json-path="../data/starships.json"
+    data-bases-json-path="../data/bases.json"
+    data-flora-json-path="../data/flora.json"
+    data-planets-json-path="../data/planets.json"
+    data-minerals-json-path="../data/minerals.json"
+    data-multitools-json-path="../data/multitools.json"
+    data-systems-json-path="../data/systems.json"
+    data-colonies-json-path="../data/colonies.json"
+    data-businesses-json-path="../data/businesses.json"
+  >
+    <div class="site-shell">
+      <header class="hero hero-subpage">
+        <div>
+          <p class="eyebrow">Galactic Hub</p>
+          <h1>Archive Stats</h1>
+          <p class="hero-copy">A stats breakdown from the GH wiki cargo table exports.</p>
+        </div>
+        <nav class="hero-nav">
+          <a class="button button-secondary" href="../">Back to home</a>
+        </nav>
+      </header>
+
+      <main class="page-section">
+        <section class="results-toolbar">
+          <div>
+            <p class="eyebrow">Overview</p>
+            <h2 id="stats-summary">Loading archive stats...</h2>
+          </div>
+          <p class="results-meta" id="stats-meta"></p>
+        </section>
+
+        <section id="stats-dashboard" class="stats-dashboard" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script src="../script.js"></script>
+  </body>
+</html>

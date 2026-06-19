@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About | Galactic Hub Archives</title>
+    <meta name="theme-color" content="#071421" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Learn how the Galactic Hub Archives site works, where its data comes from, how records are filtered, and how often archive exports are updated."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Galactic Hub Archives" />
+    <meta property="og:title" content="About | Galactic Hub Archives" />
+    <meta
+      property="og:description"
+      content="Learn how the Galactic Hub Archives site works, where its data comes from, how records are filtered, and how often archive exports are updated."
+    />
+    <meta property="og:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="About | Galactic Hub Archives" />
+    <meta
+      name="twitter:description"
+      content="Learn how the Galactic Hub Archives site works, where its data comes from, how records are filtered, and how often archive exports are updated."
+    />
+    <meta name="twitter:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <link rel="icon" type="image/x-icon" href="../assets/favicon/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="../assets/favicon/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body
+    data-page="about"
+    data-creatures-json-path="../data/creatures.json"
+    data-starships-json-path="../data/starships.json"
+    data-bases-json-path="../data/bases.json"
+    data-flora-json-path="../data/flora.json"
+    data-planets-json-path="../data/planets.json"
+    data-minerals-json-path="../data/minerals.json"
+    data-multitools-json-path="../data/multitools.json"
+    data-systems-json-path="../data/systems.json"
+    data-colonies-json-path="../data/colonies.json"
+    data-businesses-json-path="../data/businesses.json"
+  >
+    <div class="site-shell">
+      <header class="hero hero-subpage">
+        <div>
+          <p class="eyebrow">Galactic Hub</p>
+          <h1>About The Archives</h1>
+          <p class="hero-copy">
+            This site is for browsing Galactic Hub wiki cargo data with
+            filtering not possible on the wiki itself.
+          </p>
+          <p class="hero-status" id="last-updated-about">Loading latest archive export...</p>
+        </div>
+        <nav class="hero-nav">
+          <a class="button button-secondary" href="../">Back to home</a>
+          <a class="button button-secondary" href="../stats/">View stats</a>
+          <a
+            class="button button-primary"
+            href="https://nmsgalactichub.miraheze.org/wiki/Main_Page"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Visit the wiki
+          </a>
+        </nav>
+      </header>
+
+      <main class="page-section">
+        <section class="about-grid">
+          <article class="about-panel">
+            <p class="eyebrow">Purpose</p>
+            <h2>Why this site exists</h2>
+            <p>
+              The Galactic Hub wiki contains a large amount of documented player discoveries, but
+              raw cargo tables are not ideal for browsing. This archive displays and filters that data 
+              with direct links back to the original wiki page, so the archive acts as a
+              discovery interface rather than a reskin of the GH wiki.
+            </p>
+          </article>
+
+          <article class="about-panel">
+            <p class="eyebrow">Data Source</p>
+            <h2>Where the archive data comes from</h2>
+            <p>
+              Every archive page is generated from data exported from the NMS Galactic Hub wiki on
+              Miraheze. The exporter script queries the wiki API and writes JSON files that this
+              website reads directly.
+            </p>
+          </article>
+
+          <article class="about-panel">
+            <p class="eyebrow">Notes</p>
+            <h2>What to expect</h2>
+              <p>
+                This site reads from exported JSON files rather than live cargo tables in the
+                browser. That means data updates when the export script is run, not instantly when a
+                wiki page changes.
+              </p>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="../script.js"></script>
+  </body>
+</html>

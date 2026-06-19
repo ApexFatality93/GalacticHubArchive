@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Businesses | Galactic Hub Archive</title>
+    <meta name="theme-color" content="#071421" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Browse Galactic Hub business listings by civilization, owner, vanilla support, and services."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Galactic Hub Archives" />
+    <meta property="og:title" content="Businesses | Galactic Hub Archive" />
+    <meta
+      property="og:description"
+      content="Browse Galactic Hub business listings by civilization, owner, vanilla support, and services."
+    />
+    <meta property="og:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Businesses | Galactic Hub Archive" />
+    <meta
+      name="twitter:description"
+      content="Browse Galactic Hub business listings by civilization, owner, vanilla support, and services."
+    />
+    <meta name="twitter:image" content="../assets/favicon/android-chrome-512x512.png" />
+    <link rel="icon" type="image/x-icon" href="../assets/favicon/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="../assets/favicon/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body data-page="businesses" data-json-path="../data/businesses.json">
+    <div class="site-shell">
+      <header class="hero hero-subpage">
+        <div>
+          <p class="eyebrow">Galactic Hub</p>
+          <h1>Business Archive</h1>
+          <p class="hero-copy">Data is pulled from the wiki once per day.</p>
+        </div>
+        <nav class="hero-nav">
+          <a class="button button-secondary" href="../">Back to home</a>
+          <button class="button button-secondary" id="copy-link-button" type="button">
+            Copy link
+          </button>
+        </nav>
+      </header>
+
+      <main class="page-section">
+        <section class="filters-panel">
+          <div class="filters-heading">
+            <div>
+              <p class="eyebrow">Filters</p>
+              <h2>Sort and narrow the archive.</h2>
+            </div>
+            <button class="button button-secondary button-compact" id="reset-filters" type="button">
+              Reset
+            </button>
+          </div>
+
+          <div class="filters-grid">
+            <label class="field">
+              <span>Civilized</span>
+              <select id="civilization-filter"><option value="">All civilizations</option></select>
+            </label>
+            <label class="field">
+              <span>Vanilla</span>
+              <select id="vanilla-filter"><option value="">All values</option></select>
+            </label>
+            <label class="field">
+              <span>Owner</span>
+              <select id="owner-filter"><option value="">All owners</option></select>
+            </label>
+            <label class="field">
+              <span>Sort</span>
+              <select id="sort-select">
+                <option value="name-asc">Name A-Z</option>
+                <option value="name-desc">Name Z-A</option>
+                <option value="owner-asc">Owner A-Z</option>
+                <option value="vanilla-asc">Vanilla A-Z</option>
+              </select>
+            </label>
+          </div>
+        </section>
+
+        <section class="results-toolbar">
+          <div>
+            <p class="eyebrow">Results</p>
+            <h2 id="results-summary">Loading businesses...</h2>
+          </div>
+          <p class="results-meta" id="results-meta"></p>
+        </section>
+
+        <section id="cards-grid" class="cards-grid" aria-live="polite"></section>
+        <div class="load-more-wrap">
+          <button class="button button-primary" id="load-more-button" type="button" hidden>
+            Load more
+          </button>
+        </div>
+      </main>
+    </div>
+
+    <template id="businesses-card-template">
+      <a class="data-card" target="_blank" rel="noreferrer">
+        <div class="card-image-wrap">
+          <img class="card-image" alt="" loading="lazy" />
+        </div>
+        <div class="card-content">
+          <div class="card-header">
+            <div>
+              <p class="card-kicker"></p>
+              <h3 class="card-title"></h3>
+            </div>
+          </div>
+          <dl class="card-details"></dl>
+        </div>
+      </a>
+    </template>
+
+    <script src="../script.js"></script>
+  </body>
+</html>

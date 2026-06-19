@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Galactic Hub Archives</title>
+    <meta name="theme-color" content="#071421" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Browse Galactic Hub wiki discoveries through the archives for creatures, starships, planets, systems, bases, businesses, and more."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Galactic Hub Archives" />
+    <meta property="og:title" content="Galactic Hub Archives" />
+    <meta
+      property="og:description"
+      content="Browse Galactic Hub wiki discoveries through the archives for creatures, starships, planets, systems, bases, businesses, and more."
+    />
+    <meta property="og:image" content="./assets/favicon/android-chrome-512x512.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Galactic Hub Archives" />
+    <meta
+      name="twitter:description"
+      content="Browse Galactic Hub wiki discoveries through the archives for creatures, starships, planets, systems, bases, businesses, and more."
+    />
+    <meta name="twitter:image" content="./assets/favicon/android-chrome-512x512.png" />
+    <link rel="icon" type="image/x-icon" href="./assets/favicon/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="./assets/favicon/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-page="home" data-creatures-json-path="./data/creatures.json" data-starships-json-path="./data/starships.json" data-bases-json-path="./data/bases.json" data-flora-json-path="./data/flora.json" data-planets-json-path="./data/planets.json" data-minerals-json-path="./data/minerals.json" data-multitools-json-path="./data/multitools.json" data-systems-json-path="./data/systems.json" data-colonies-json-path="./data/colonies.json" data-businesses-json-path="./data/businesses.json">
+    <div class="site-shell">
+      <header class="hero hero-home">
+        <div>
+          <p class="eyebrow">No Man's Sky</p>
+          <h1>Galactic Hub Archives</h1>
+          <p class="hero-copy">
+            Filter through documented player discoveries from the Galactic Hub Wiki!
+          </p>
+          <p class="hero-status" id="last-updated-home">Loading latest archive export...</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href= "https://nmsgalactichub.miraheze.org/wiki/Main_Page">Check out our Wiki</a>
+            <a class="button button-secondary" href="./about/">About the archive</a>
+            <a
+              class="button button-secondary"
+              href="./stats/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View Archive Stats
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <main class="page-section">
+        <section class="section-heading">
+          <p class="eyebrow">Categories</p>
+        </section>
+
+        <section class="category-grid">
+          <a class="category-card category-card-active" href="./creatures/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.creature.png" alt="" />
+            </div>
+            <h3>Creatures</h3>
+            <strong class="category-metric" data-home-stat="creatures">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./starships/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.ship.png" alt="" />
+            </div>
+            <h3>Starships</h3>
+            <strong class="category-metric" data-home-stat="starships">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./bases/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.base.png" alt="" />
+            </div>
+            <h3>Bases</h3>
+            <strong class="category-metric" data-home-stat="bases">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./flora/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.plant.png" alt="" />
+            </div>
+            <h3>Flora</h3>
+            <strong class="category-metric" data-home-stat="flora">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./planets/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.planet.png" alt="" />
+            </div>
+            <h3>Planets</h3>
+            <strong class="category-metric" data-home-stat="planets">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./multitools/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.multitool.png" alt="" />
+            </div>
+            <h3>Multitools</h3>
+            <strong class="category-metric" data-home-stat="multitools">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./minerals/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.mineral.png" alt="" />
+            </div>
+            <h3>Minerals</h3>
+            <strong class="category-metric" data-home-stat="minerals">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./systems/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.system.png" alt="" />
+            </div>
+            <h3>Systems</h3>
+            <strong class="category-metric" data-home-stat="systems">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./colonies/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.colony.png" alt="" />
+            </div>
+            <h3>Colonies</h3>
+            <strong class="category-metric" data-home-stat="colonies">Loading...</strong>
+          </a>
+
+          <a class="category-card category-card-active" href="./businesses/">
+            <div class="category-icon-wrap">
+              <img class="category-icon" src="./assets/icons/patch.business.png" alt="" />
+            </div>
+            <h3>Businesses</h3>
+            <strong class="category-metric" data-home-stat="businesses">Loading...</strong>
+          </a>
+
+        </section>
+      </main>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
