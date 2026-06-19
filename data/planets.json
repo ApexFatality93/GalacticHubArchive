@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T14:43:10.673574+00:00",
+    "generated_at": "2026-06-19T14:58:53.204229+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1040,
+    "count": 1042,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -4876,9 +4876,9 @@
       "grass_color": "None",
       "sentinel": "Remote",
       "civilization": "Galactic Hub Calypso",
-      "discovered_by": "[[User:Theseventhcoming|ellie]]",
-      "discoverer_page": "",
-      "discoverer_url": ""
+      "discovered_by": "",
+      "discoverer_page": "Theseventhcoming",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Theseventhcoming"
     },
     {
       "page": "Eniann III",
@@ -9321,6 +9321,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/MeowzaWowza"
     },
     {
+      "page": "Kufast Y30",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kufast_Y30",
+      "name": "Kufast Y30",
+      "body_type": "Planet",
+      "image_name": "kufast_y30.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/kufast_y30.landscape.day.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "1096CE58AC1F",
+      "description": "Toxic Planet",
+      "biome": "Toxic",
+      "weather": "Noxious Gas Storms",
+      "sky_color": "Yellow",
+      "grass_color": "Green",
+      "sentinel": "Sparse",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
+    },
+    {
       "page": "Kuport X19",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kuport_X19",
       "name": "Kuport X19",
@@ -11099,6 +11119,26 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "Mobusha XVIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mobusha_XVIII",
+      "name": "Mobusha XVIII",
+      "body_type": "Planet",
+      "image_name": "mobusha_xviii.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/mobusha_xviii.landscape.day.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "2096CE58AC1F",
+      "description": "Nuclear Planet",
+      "biome": "Irradiated",
+      "weather": "Enormous Nuclear Storms",
+      "sky_color": "Yellow",
+      "grass_color": "Green",
+      "sentinel": "Intermittent",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Moch Delta",
@@ -12979,26 +13019,6 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
-    },
-    {
-      "page": "User:Ningensushi",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/User:Ningensushi",
-      "name": "Ningensushi",
-      "body_type": "Planet",
-      "image_name": "NmsMisc_NotAvailable.png",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/NmsMisc_NotAvailable.png",
-      "galaxy": "Euclid",
-      "glyphs": "1405D0589C1E",
-      "description": "",
-      "biome": "",
-      "weather": "",
-      "sky_color": "",
-      "grass_color": "",
-      "sentinel": "",
-      "civilization": "Galactic Hub Project",
-      "discovered_by": "DISCOVERUSER",
-      "discoverer_page": "",
-      "discoverer_url": ""
     },
     {
       "page": "Ninum 38/A8",
@@ -19359,6 +19379,26 @@
       "discovered_by": "",
       "discoverer_page": "Barderico",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Barderico"
+    },
+    {
+      "page": "Urham VIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Urham_VIII",
+      "name": "Urham VIII",
+      "body_type": "Planet",
+      "image_name": "urham_viii.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/urham_viii.landscape.day.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "3096CE58AC1F",
+      "description": "Endless Morass",
+      "biome": "Marsh",
+      "weather": "Infrequent Torrents",
+      "sky_color": "Blue",
+      "grass_color": "Brown",
+      "sentinel": "Minimal",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Urinethan Nobo",

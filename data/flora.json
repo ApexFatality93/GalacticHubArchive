@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T02:47:44.008593+00:00",
+    "generated_at": "2026-06-19T14:58:40.665943+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Flora",
-    "count": 149,
+    "count": 156,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -499,6 +499,21 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "E. Toeruccus",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/E._Toeruccus",
+      "name": "E. Toeruccus",
+      "image_name": "etoer.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/etoer.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
+    },
+    {
       "page": "F. Coneusus",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/F._Coneusus",
       "name": "F. Coneusus",
@@ -724,6 +739,21 @@
       "discoverer_url": ""
     },
     {
+      "page": "I. Bitterakosae",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/I._Bitterakosae",
+      "name": "I. Bitterakosae",
+      "image_name": "bitterakosae_2.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/bitterakosae_2.png",
+      "galaxy": "Euclid",
+      "glyphs": "20ACCE58AC1F",
+      "biome": "Lush",
+      "type": "Mushroom",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "G'fudi",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
+    },
+    {
       "page": "I. Duckliglea",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/I._Duckliglea",
       "name": "I. Duckliglea",
@@ -776,7 +806,7 @@
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3e/Screenshot_2026-05-13_130139.png",
       "galaxy": "Calypso",
       "glyphs": "1032FA557C2F",
-      "biome": "Frost",
+      "biome": "Frozen",
       "type": "Flower",
       "civilization": "Galactic Hub Calypso",
       "discovered_by": "",
@@ -1129,6 +1159,21 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
     },
     {
+      "page": "M. Deepiparae",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/M._Deepiparae",
+      "name": "M. Deepiparae",
+      "image_name": "mdeep.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/mdeep.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
+    },
+    {
       "page": "M. Hairesprosa",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/M._Hairesprosa",
       "name": "M. Hairesprosa",
@@ -1459,6 +1504,21 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Hammersong44"
     },
     {
+      "page": "P. Lousetutia",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/P._Lousetutia",
+      "name": "P. Lousetutia",
+      "image_name": "plous.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/plous.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
+    },
+    {
       "page": "Pyre Plant (U. Crabwonsesera)",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Pyre_Plant_(U._Crabwonsesera)",
       "name": "Pyre Plant (U. Crabwonsesera)",
@@ -1472,6 +1532,21 @@
       "discovered_by": "7101334",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Q. Mudidae",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Q._Mudidae",
+      "name": "Q. Mudidae",
+      "image_name": "qmud.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/qmud.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Mushroom",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
     },
     {
       "page": "Q. Spiteplasis",
@@ -1529,6 +1604,36 @@
       "biome": "Lush",
       "type": "Flower",
       "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
+    },
+    {
+      "page": "Q. Xyloaria",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Q._Xyloaria",
+      "name": "Q. Xyloaria",
+      "image_name": "qxylo.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/qxylo.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
+    },
+    {
+      "page": "R. Bugpeyus",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/R._Bugpeyus",
+      "name": "R. Bugpeyus",
+      "image_name": "rbugp.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/rbugp.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "241209555D30",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Eissentam",
       "discovered_by": "",
       "discoverer_page": "anatomyofamind",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"

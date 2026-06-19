@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T02:39:09.813964+00:00",
+    "generated_at": "2026-06-19T14:58:37.916162+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1653,
+    "count": 1659,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4039,6 +4039,21 @@
       "glyphs": "102708556D2F"
     },
     {
+      "page": "Cpt Crudo Base",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Cpt_Crudo_Base",
+      "name": "Cpt Crudo Base",
+      "image_name": "20260618055340_1.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260618055340_1.jpg",
+      "builder": "Cpt Crudo",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "31D6D058AC1D"
+    },
+    {
       "page": "Cragtop Thermic Lab",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Cragtop_Thermic_Lab",
       "name": "Cragtop Thermic Lab",
@@ -5612,6 +5627,21 @@
       "galaxy": "Eissentam",
       "civilization": "Legacy EisHub",
       "glyphs": "108DF9555C30"
+    },
+    {
+      "page": "Eissenport 2-C",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Eissenport_2-C",
+      "name": "Eissenport 2-C",
+      "image_name": "Eissenport-2-C-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f9/Eissenport-2-C-Infobox.jpg",
+      "builder": "",
+      "builder_link": "OhDraw",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw",
+      "game_release": "Xeno Arena",
+      "type": "Activity",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "300C09555D30"
     },
     {
       "page": "Eissentam Galactic Hub",
@@ -7412,6 +7442,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "501BF9557C30"
+    },
+    {
+      "page": "Galactic Hub Cadmium - B",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Galactic_Hub_Cadmium_-_B",
+      "name": "Galactic Hub Cadmium - B",
+      "image_name": "Ghcadmium.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/be/Ghcadmium.png",
+      "builder": "",
+      "builder_link": "Klax",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Klax",
+      "game_release": "Xeno Arena",
+      "type": "Production",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "207DD058AC1E"
     },
     {
       "page": "Galactic Hub Capitol",
@@ -9467,6 +9512,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "61F5F9557C30"
+    },
+    {
+      "page": "High Drop Point",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/High_Drop_Point",
+      "name": "High Drop Point",
+      "image_name": "Screenshot 2026-06-16 101229.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/8d/Screenshot_2026-06-16_101229.png",
+      "builder": "",
+      "builder_link": "Nyeks",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks",
+      "game_release": "Xeno Arena",
+      "type": "Combat",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1410F9557C31"
     },
     {
       "page": "Hillside View",
@@ -14464,21 +14524,6 @@
       "glyphs": "1009CF589C1E"
     },
     {
-      "page": "User:NinjaSmith0",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/User:NinjaSmith0",
-      "name": "NinjaSmith0",
-      "image_name": "IMG_7156.jpeg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_7156.jpeg",
-      "builder": "",
-      "builder_link": "NinjaSmith0",
-      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/NinjaSmith0",
-      "game_release": "Breach",
-      "type": "Artistic",
-      "galaxy": "Euclid",
-      "civilization": "Galactic Hub Project",
-      "glyphs": "501BF9557C30"
-    },
-    {
       "page": "Nip Nip Glider",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nip_Nip_Glider",
       "name": "Nip Nip Glider",
@@ -17689,6 +17734,21 @@
       "glyphs": "1073F9556C31"
     },
     {
+      "page": "Rusty Sharp Turn",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rusty_Sharp_Turn",
+      "name": "Rusty Sharp Turn",
+      "image_name": "Screenshot 2026-06-17 105910.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/16/Screenshot_2026-06-17_105910.png",
+      "builder": "",
+      "builder_link": "Nyeks",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks",
+      "game_release": "Xenoarena",
+      "type": "Combat",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "0009F9558C30"
+    },
+    {
       "page": "Rusty's Hideout",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rusty%27s_Hideout",
       "name": "Rusty's Hideout",
@@ -20792,6 +20852,21 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "100109556D30"
+    },
+    {
+      "page": "The Corkscrew",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Corkscrew",
+      "name": "The Corkscrew",
+      "image_name": "the corkscrew track.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/the%20corkscrew%20track.jpg",
+      "builder": "",
+      "builder_link": "DiscoHippie",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/DiscoHippie",
+      "game_release": "Xeno Arena",
+      "type": "Activity",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "101009555D30"
     },
     {
       "page": "The Cove",
@@ -24752,6 +24827,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "2052F9557C30"
+    },
+    {
+      "page": "Zero Gravity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Zero_Gravity",
+      "name": "Zero Gravity",
+      "image_name": "Zero Gravity Base.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/13/Zero_Gravity_Base.png",
+      "builder": "",
+      "builder_link": "Sinhalamish",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Sinhalamish",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "506BCF58AC1F"
     },
     {
       "page": "Zero-G Tactical & Supply",

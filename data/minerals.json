@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T14:56:18.396615+00:00",
+    "generated_at": "2026-06-19T14:58:55.443507+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Minerals",
-    "count": 105,
+    "count": 104,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -405,19 +405,6 @@
       "discovered_by": "",
       "discoverer_page": "Donrhowland",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Donrhowland"
-    },
-    {
-      "page": "Gasonosite",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gasonosite",
-      "name": "Gasonosite",
-      "image_name": "Gasonosite_.png",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/Gasonosite_.png",
-      "galaxy": "Euclid",
-      "glyphs": "",
-      "civilization": "Galactic Hub Project",
-      "discovered_by": "",
-      "discoverer_page": "",
-      "discoverer_url": ""
     },
     {
       "page": "Gearsite",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T15:06:22.516372+00:00",
+    "generated_at": "2026-06-19T14:59:00.739943+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 375,
+    "count": 376,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -194,6 +194,22 @@
       "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
+    },
+    {
+      "page": "Arc Generator 7/55D/GM2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Arc_Generator_7/55D/GM2",
+      "name": "Arc Generator 7/55D/GM2",
+      "image_name": "Arc Generator 7-55D-GM2.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/69/Arc_Generator_7-55D-GM2.png",
+      "type": "Sentinel",
+      "galaxy": "Euclid",
+      "glyphs": "4026CE58AC1F",
+      "civilization": "Galactic Hub Project",
+      "slots": "17",
+      "mt_class": "A",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Art of Bones",
