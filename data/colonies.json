@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T14:59:10.279431+00:00",
+    "generated_at": "2026-06-20T09:44:48.846979+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Colonies",
-    "count": 51,
+    "count": 52,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -579,6 +579,18 @@
       "restricted": "Yes",
       "status": "",
       "civilization": "Legacy Galactic Hub"
+    },
+    {
+      "page": "Triple S Attractions",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Triple_S_Attractions",
+      "name": "Triple S Attractions",
+      "image_name": "Xeno Park.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/73/Xeno_Park.png",
+      "galaxy": "Euclid",
+      "glyphs": "1083D058AC1E",
+      "restricted": "",
+      "status": "Active",
+      "civilization": "Galactic Hub Project"
     },
     {
       "page": "Tropical Colony",
