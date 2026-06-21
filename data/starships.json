@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T09:44:02.769789+00:00",
+    "generated_at": "2026-06-21T10:07:06.406668+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1092,
+    "count": 1100,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -898,6 +898,22 @@
       "discovered_by": "",
       "discoverer_page": "Randomner",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner"
+    },
+    {
+      "page": "AS8 Suzuka",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/AS8_Suzuka",
+      "name": "AS8 Suzuka",
+      "image_name": "AS8Suzuka-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9a/AS8Suzuka-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "514908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Asend's Triumph",
@@ -2322,6 +2338,22 @@
       "discovered_by": "",
       "discoverer_page": "Daidact",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Daidact"
+    },
+    {
+      "page": "Crimson-K6/YY9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-K6/YY9",
+      "name": "Crimson-K6/YY9",
+      "image_name": "Sentinel Interceptor.jpeg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/66/Sentinel_Interceptor.jpeg",
+      "game_release": "Xenoarena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "517BD058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Cpt Crudo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cpt_Crudo"
     },
     {
       "page": "Crimson-\u03b1\u03b5",
@@ -4383,6 +4415,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "23FCD0588C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Flameborn-\u03c6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flameborn-%CF%86",
+      "name": "Flameborn-\u03c6",
+      "image_name": "Flameborn-\u03c6.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/Flameborn-%CF%86.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23F3CE58AC1E",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -7220,6 +7268,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
     },
     {
+      "page": "Kinabay VU9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kinabay_VU9",
+      "name": "Kinabay VU9",
+      "image_name": "KinabayVU9-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a1/KinabayVU9-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "514908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "KO9 Wamis",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/KO9_Wamis",
       "name": "KO9 Wamis",
@@ -7986,6 +8050,22 @@
       "discovered_by": "",
       "discoverer_page": "it.is.bruce",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/it.is.bruce"
+    },
+    {
+      "page": "Mitah of the Void",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mitah_of_the_Void",
+      "name": "Mitah of the Void",
+      "image_name": "MitahOfTheVoid-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/dc/MitahOfTheVoid-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "514908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Mitsuba QE1",
@@ -9442,6 +9522,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Onodaita's Shimmering Prospect",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Onodaita%27s_Shimmering_Prospect",
+      "name": "Onodaita's Shimmering Prospect",
+      "image_name": "OnodaitasShimmeringProspect-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d4/OnodaitasShimmeringProspect-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "514908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ookawac's Abstract Indiscretion",
@@ -11140,6 +11236,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "Ruthless Shield LR5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ruthless_Shield_LR5",
+      "name": "Ruthless Shield LR5",
+      "image_name": "RuthlessShieldLR5-Deck.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c1/RuthlessShieldLR5-Deck.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "514908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "RW2 Idakanza",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/RW2_Idakanza",
       "name": "RW2 Idakanza",
@@ -11858,6 +11970,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "SL9 Nomato",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/SL9_Nomato",
+      "name": "SL9 Nomato",
+      "image_name": "SL9Nomato-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/6c/SL9Nomato-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "309B08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Soaring Dance CC8",
