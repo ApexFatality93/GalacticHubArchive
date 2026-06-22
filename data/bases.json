@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T10:07:26.176350+00:00",
+    "generated_at": "2026-06-22T12:28:32.499208+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
     "count": 1659,
@@ -4044,10 +4044,10 @@
       "name": "Cpt Crudo Base",
       "image_name": "20260618055340_1.jpg",
       "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260618055340_1.jpg",
-      "builder": "Cpt Crudo",
-      "builder_link": "",
-      "builder_url": "",
-      "game_release": "Xenoarena",
+      "builder": "",
+      "builder_link": "Cpt Crudo",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Cpt_Crudo",
+      "game_release": "Xeno Arena",
       "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",

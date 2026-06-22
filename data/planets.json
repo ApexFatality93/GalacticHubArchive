@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T10:07:41.173278+00:00",
+    "generated_at": "2026-06-22T12:28:47.507147+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1042,
+    "count": 1044,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -7419,6 +7419,26 @@
       "discovered_by": "turbodog",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Honutrill",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Honutrill",
+      "name": "Honutrill",
+      "body_type": "Planet",
+      "image_name": "Honutrill-LS-DayRed.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/be/Honutrill-LS-DayRed.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "10F008555D30",
+      "description": "Ash-Shrouded",
+      "biome": "Volcanic",
+      "weather": "Drifting Firestorms",
+      "sky_color": "Red",
+      "grass_color": "Red",
+      "sentinel": "Regular Patrols",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Hosh 97/J4",
@@ -15939,6 +15959,26 @@
       "discovered_by": "Tarloch",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Riftere-Nat",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Riftere-Nat",
+      "name": "Riftere-Nat",
+      "body_type": "Planet",
+      "image_name": "RN-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f7/RN-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "20F008555D30",
+      "description": "Ash-Shrouded",
+      "biome": "Marsh",
+      "weather": "Melting Deluges",
+      "sky_color": "Yellow",
+      "grass_color": "Yellow",
+      "sentinel": "Require Orthodoxy",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Rigangde XV",
