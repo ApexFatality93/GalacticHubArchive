@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T12:28:47.507147+00:00",
+    "generated_at": "2026-06-23T10:04:58.793240+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1044,
+    "count": 1046,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -5819,6 +5819,26 @@
       "discovered_by": "LenaLuthor'sWife",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Fromulennt Stor",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Fromulennt_Stor",
+      "name": "Fromulennt Stor",
+      "body_type": "Planet",
+      "image_name": "Fromulennt-Stor-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f2/Fromulennt-Stor-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "208F08555D31",
+      "description": "Bubbling",
+      "biome": "Exotic",
+      "weather": "Harsh Toxic Wind",
+      "sky_color": "Purple",
+      "grass_color": "Brown",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Frozen Forest",
@@ -13739,6 +13759,26 @@
       "discovered_by": "",
       "discoverer_page": "BASEBALL988",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/BASEBALL988"
+    },
+    {
+      "page": "Ofkalt",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ofkalt",
+      "name": "Ofkalt",
+      "body_type": "Moon",
+      "image_name": "OfKalt-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b3/OfKalt-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "308F08555D31",
+      "description": "Heimal Moon",
+      "biome": "Frozen",
+      "weather": "Outbreaks of Frozen Rain",
+      "sky_color": "Blue",
+      "grass_color": "Green",
+      "sentinel": "Irregular Patrols",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ogatead Bihi",
