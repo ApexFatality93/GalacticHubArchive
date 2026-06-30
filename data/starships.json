@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T11:25:20.254752+00:00",
+    "generated_at": "2026-06-30T10:03:08.113374+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1146,
+    "count": 1147,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -10975,6 +10975,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "314008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Rebuilt Claws YN4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rebuilt_Claws_YN4",
+      "name": "Rebuilt Claws YN4",
+      "image_name": "RebuiltClawsYN4-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3e/RebuiltClawsYN4-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11B20A555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

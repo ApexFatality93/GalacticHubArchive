@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T11:25:57.558016+00:00",
+    "generated_at": "2026-06-30T10:03:45.652311+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1047,
@@ -19941,6 +19941,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Hostile_Patrols"
     },
     {
+      "page": "Walleenob",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Walleenob",
+      "name": "Walleenob",
+      "body_type": "Planet",
+      "image_name": "Walleenob-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/25/Walleenob-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "10DB0A557D2F",
+      "description": "Frozen",
+      "biome": "Frozen",
+      "weather": "Drifting Snowstorms",
+      "sky_color": "Blue",
+      "grass_color": "Green",
+      "sentinel": "Irregular Patrols",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Walsal III",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Walsal_III",
       "name": "Walsal III",
@@ -20699,26 +20719,6 @@
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
-    },
-    {
-      "page": "Yukitori Nosekai",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Yukitori_Nosekai",
-      "name": "Yukitori Nosekai",
-      "body_type": "Planet",
-      "image_name": "YukitoriNosekai-LandscapeDay.jpg",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c1/YukitoriNosekai-LandscapeDay.jpg",
-      "galaxy": "Eissentam",
-      "glyphs": "219808555D30",
-      "description": "Heimal Planet",
-      "biome": "Frozen",
-      "weather": "Wandering Frosts",
-      "sky_color": "Blue",
-      "grass_color": "grey-green (but mostly snow)",
-      "sentinel": "Spread Thin",
-      "civilization": "Galactic Hub Eissentam",
-      "discovered_by": "",
-      "discoverer_page": "",
-      "discoverer_url": ""
     },
     {
       "page": "Yunuska",
